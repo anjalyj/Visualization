@@ -1,0 +1,16 @@
+.container{
+	border:1px solid black;
+}
+
+svg{
+	border:1px solid blue;
+}
+
+circle{
+	stroke: blue;
+}
+
+path{
+	fill : none;
+	stroke: black;
+}
